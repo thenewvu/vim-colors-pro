@@ -96,30 +96,30 @@ hi Function        ctermfg=7     ctermbg=0    cterm=none
 " --------------------------------
 " Language constructs
 " --------------------------------
-hi Statement       ctermfg=4     ctermbg=0    cterm=none
-hi Conditional     ctermfg=4     ctermbg=0    cterm=none
-hi Repeat          ctermfg=4     ctermbg=0    cterm=none
-hi Label           ctermfg=4     ctermbg=0    cterm=none
-hi Operator        ctermfg=4     ctermbg=0    cterm=none
-hi Keyword         ctermfg=4     ctermbg=0    cterm=none
-hi Exception       ctermfg=4     ctermbg=0    cterm=none
+hi Statement       ctermfg=3     ctermbg=0    cterm=none
+hi Conditional     ctermfg=3     ctermbg=0    cterm=none
+hi Repeat          ctermfg=3     ctermbg=0    cterm=none
+hi Label           ctermfg=3     ctermbg=0    cterm=none
+hi Operator        ctermfg=3     ctermbg=0    cterm=none
+hi Keyword         ctermfg=3     ctermbg=0    cterm=none
+hi Exception       ctermfg=3     ctermbg=0    cterm=none
 hi Comment         ctermfg=8     ctermbg=0    cterm=underline
 
-hi Special         ctermfg=4     ctermbg=0    cterm=none
-hi SpecialChar     ctermfg=4     ctermbg=0    cterm=none
-hi Tag             ctermfg=4     ctermbg=0    cterm=none
-hi Delimiter       ctermfg=4     ctermbg=0    cterm=none
-hi SpecialComment  ctermfg=4     ctermbg=0    cterm=none
-hi Debug           ctermfg=4     ctermbg=0    cterm=none
+hi Special         ctermfg=3     ctermbg=0    cterm=none
+hi SpecialChar     ctermfg=3     ctermbg=0    cterm=none
+hi Tag             ctermfg=3     ctermbg=0    cterm=none
+hi Delimiter       ctermfg=3     ctermbg=0    cterm=none
+hi SpecialComment  ctermfg=3     ctermbg=0    cterm=none
+hi Debug           ctermfg=3     ctermbg=0    cterm=none
 
 " ----------
 " - C like -
 " ----------
-hi PreProc         ctermfg=4     ctermbg=0    cterm=none
-hi Include         ctermfg=4     ctermbg=0    cterm=none
-hi Define          ctermfg=4     ctermbg=0    cterm=none
-hi Macro           ctermfg=4     ctermbg=0    cterm=none
-hi PreCondit       ctermfg=4     ctermbg=0    cterm=none
+hi PreProc         ctermfg=3     ctermbg=0    cterm=none
+hi Include         ctermfg=3     ctermbg=0    cterm=none
+hi Define          ctermfg=3     ctermbg=0    cterm=none
+hi Macro           ctermfg=3     ctermbg=0    cterm=none
+hi PreCondit       ctermfg=3     ctermbg=0    cterm=none
 
 hi Type            ctermfg=7     ctermbg=0    cterm=none
 hi StorageClass    ctermfg=7     ctermbg=0    cterm=none
