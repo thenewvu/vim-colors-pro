@@ -71,13 +71,13 @@ hi Visual          ctermfg=7     ctermbg=0    cterm=standout
 hi VisualNOS       ctermfg=7     ctermbg=0    cterm=standout
 hi NonText         ctermfg=8     ctermbg=0    cterm=none
 
-hi Todo            ctermfg=7     ctermbg=0    cterm=underline
-hi Underlined      ctermfg=7     ctermbg=0    cterm=underline
-hi Error           ctermfg=7     ctermbg=0    cterm=none
-hi ErrorMsg        ctermfg=7     ctermbg=0    cterm=none
-hi WarningMsg      ctermfg=7     ctermbg=0    cterm=none
-hi Ignore          ctermfg=7     ctermbg=0    cterm=none
-hi SpecialKey      ctermfg=7     ctermbg=0    cterm=none
+hi Todo            ctermfg=9     ctermbg=0    cterm=underline
+hi Underlined      ctermfg=9     ctermbg=0    cterm=underline
+hi Error           ctermfg=9     ctermbg=0    cterm=none
+hi ErrorMsg        ctermfg=9     ctermbg=0    cterm=none
+hi WarningMsg      ctermfg=9     ctermbg=0    cterm=none
+hi Ignore          ctermfg=0     ctermbg=0    cterm=none
+hi SpecialKey      ctermfg=9     ctermbg=0    cterm=none
 
 " --------------------------------
 " Variable types
@@ -115,11 +115,11 @@ hi Debug           ctermfg=3     ctermbg=0    cterm=none
 " ----------
 " - C like -
 " ----------
-hi PreProc         ctermfg=3     ctermbg=0    cterm=none
-hi Include         ctermfg=3     ctermbg=0    cterm=none
-hi Define          ctermfg=3     ctermbg=0    cterm=none
-hi Macro           ctermfg=3     ctermbg=0    cterm=none
-hi PreCondit       ctermfg=3     ctermbg=0    cterm=none
+hi PreProc         ctermfg=7     ctermbg=0    cterm=none
+hi Include         ctermfg=7     ctermbg=0    cterm=none
+hi Define          ctermfg=7     ctermbg=0    cterm=none
+hi Macro           ctermfg=7     ctermbg=0    cterm=none
+hi PreCondit       ctermfg=7     ctermbg=0    cterm=none
 
 hi Type            ctermfg=7     ctermbg=0    cterm=none
 hi StorageClass    ctermfg=7     ctermbg=0    cterm=none
@@ -141,18 +141,18 @@ hi link diffRemoved DiffDelete
 " --------------------------------
 " Completion menu
 " --------------------------------
-hi Pmenu           ctermfg=7     ctermbg=8    cterm=none
-hi PmenuSel        ctermfg=7     ctermbg=8    cterm=standout
-hi PmenuSbar       ctermfg=7     ctermbg=8    cterm=none
-hi PmenuThumb      ctermfg=7     ctermbg=8    cterm=none
+hi Pmenu           ctermfg=0     ctermbg=8    cterm=none
+hi PmenuSel        ctermfg=0     ctermbg=8    cterm=underline
+hi PmenuSbar       ctermfg=0     ctermbg=8    cterm=none
+hi PmenuThumb      ctermfg=0     ctermbg=8    cterm=none
 
 " --------------------------------
 " Spelling
 " --------------------------------
-hi SpellBad        ctermfg=7     ctermbg=0    cterm=none
-hi SpellCap        ctermfg=7     ctermbg=0    cterm=none
-hi SpellLocal      ctermfg=7     ctermbg=0    cterm=none
-hi SpellRare       ctermfg=7     ctermbg=0    cterm=none
+hi SpellBad        ctermfg=9     ctermbg=0    cterm=underline
+hi SpellCap        ctermfg=9     ctermbg=0    cterm=underline
+hi SpellLocal      ctermfg=9     ctermbg=0    cterm=underline
+hi SpellRare       ctermfg=9     ctermbg=0    cterm=underline
 
 "--------------------------------------------------------------------
 " Specific settings                                                 |
