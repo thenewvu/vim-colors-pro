@@ -25,7 +25,7 @@ let g:colors_name="pro"
 hi Normal          ctermfg=7     ctermbg=0    cterm=none
 hi Cursor                                     cterm=standout
 hi CursorLine      ctermfg=7     ctermbg=0    cterm=none
-hi LineNr          ctermfg=7     ctermbg=0    cterm=none
+hi LineNr          ctermfg=8     ctermbg=0    cterm=none
 hi CursorLineNR    ctermfg=7     ctermbg=0    cterm=none
 
 " -----------------
@@ -34,7 +34,7 @@ hi CursorLineNR    ctermfg=7     ctermbg=0    cterm=none
 hi CursorColumn    ctermfg=7     ctermbg=0    cterm=none
 hi FoldColumn      ctermfg=7     ctermbg=0    cterm=none
 hi SignColumn      ctermfg=7     ctermbg=0    cterm=none
-hi Folded          ctermfg=7     ctermbg=0    cterm=none
+hi Folded          ctermfg=8     ctermbg=0    cterm=none
 
 " -------------------------
 " - Window/Tab delimiters - 
