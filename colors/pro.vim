@@ -82,13 +82,13 @@ hi SpecialKey      ctermfg=9     ctermbg=0    cterm=none
 " --------------------------------
 " Variable types
 " --------------------------------
-hi Constant        ctermfg=3     ctermbg=0    cterm=none
-hi String          ctermfg=3     ctermbg=0    cterm=none
-hi StringDelimiter ctermfg=3     ctermbg=0    cterm=none
-hi Character       ctermfg=3     ctermbg=0    cterm=none
-hi Number          ctermfg=3     ctermbg=0    cterm=none
-hi Boolean         ctermfg=3     ctermbg=0    cterm=none
-hi Float           ctermfg=3     ctermbg=0    cterm=none
+hi Constant        ctermfg=2     ctermbg=0    cterm=none
+hi String          ctermfg=2     ctermbg=0    cterm=none
+hi StringDelimiter ctermfg=2     ctermbg=0    cterm=none
+hi Character       ctermfg=2     ctermbg=0    cterm=none
+hi Number          ctermfg=2     ctermbg=0    cterm=none
+hi Boolean         ctermfg=2     ctermbg=0    cterm=none
+hi Float           ctermfg=2     ctermbg=0    cterm=none
 
 hi Identifier      ctermfg=7     ctermbg=0    cterm=none
 hi Function        ctermfg=7     ctermbg=0    cterm=none
@@ -96,21 +96,21 @@ hi Function        ctermfg=7     ctermbg=0    cterm=none
 " --------------------------------
 " Language constructs
 " --------------------------------
-hi Statement       ctermfg=3     ctermbg=0    cterm=none
-hi Conditional     ctermfg=3     ctermbg=0    cterm=none
-hi Repeat          ctermfg=3     ctermbg=0    cterm=none
-hi Label           ctermfg=3     ctermbg=0    cterm=none
-hi Operator        ctermfg=3     ctermbg=0    cterm=none
-hi Keyword         ctermfg=3     ctermbg=0    cterm=none
-hi Exception       ctermfg=3     ctermbg=0    cterm=none
+hi Statement       ctermfg=2     ctermbg=0    cterm=none
+hi Conditional     ctermfg=2     ctermbg=0    cterm=none
+hi Repeat          ctermfg=2     ctermbg=0    cterm=none
+hi Label           ctermfg=2     ctermbg=0    cterm=none
+hi Operator        ctermfg=2     ctermbg=0    cterm=none
+hi Keyword         ctermfg=2     ctermbg=0    cterm=none
+hi Exception       ctermfg=2     ctermbg=0    cterm=none
 hi Comment         ctermfg=8     ctermbg=0    cterm=underline
 
-hi Special         ctermfg=3     ctermbg=0    cterm=none
-hi SpecialChar     ctermfg=3     ctermbg=0    cterm=none
-hi Tag             ctermfg=3     ctermbg=0    cterm=none
-hi Delimiter       ctermfg=3     ctermbg=0    cterm=none
-hi SpecialComment  ctermfg=3     ctermbg=0    cterm=none
-hi Debug           ctermfg=3     ctermbg=0    cterm=none
+hi Special         ctermfg=2     ctermbg=0    cterm=none
+hi SpecialChar     ctermfg=2     ctermbg=0    cterm=none
+hi Tag             ctermfg=2     ctermbg=0    cterm=none
+hi Delimiter       ctermfg=2     ctermbg=0    cterm=none
+hi SpecialComment  ctermfg=2     ctermbg=0    cterm=none
+hi Debug           ctermfg=2     ctermbg=0    cterm=none
 
 " ----------
 " - C like -
